@@ -1,0 +1,7 @@
+#Don't track secret files
+
+secrets.py
+service_secret.json
+client_id.json
+client_secret.json
+credential.json
